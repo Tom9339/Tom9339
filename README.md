@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript and more coding 
 - 💞️ I’m looking to collaborate on i dont know
 - 📫 How to reach me,message me 
-- 😄 Pronouns: He/his
+- 😄 Pronouns: He
 - ⚡ Fun fact: i love gaming
 
 <!---
